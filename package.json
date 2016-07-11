@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "babel-plugin-external-helpers": "^6.8.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.10.3",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-es2015-loose": "^7.0.0",
     "babel-preset-es2016": "^6.11.0",
